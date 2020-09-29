@@ -1,0 +1,95 @@
+body {
+
+    background-color: white;
+
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Franklin Gothic Medium;
+    color: black;
+
+
+}
+
+/*----*/
+
+hr {
+    display: block;
+    color: red;
+    margin-end: auto;
+    margin-start: auto;
+    border: 2px inset;
+    overflow: hidden;
+    margin-before: 0.5em;
+    margin-after: 0.5em;
+
+}
+
+/*------*/
+
+.container {
+    width: 300px;
+    border: 5px solid #966;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+/*----*/
+
+section {
+    color: rgb(0, 0, 0);
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+
+
+
+
+/*----*/
+
+aside {
+    padding: 30px;
+    color: white;
+}
+
+/*----*/
+
+nav {
+    overflow: hidden;
+}
+
+
+li :hover {
+    padding: 5px;
+}
+
+/*----*/
+
+nav,
+ul,
+li,
+a {
+
+
+    background-color: rgba(255, 0, 0, 0.336);
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: right;
+    padding-right: 15px;
+
+
+}
+
+/*----*/
+
+aside {
+
+    text-align: right;
+    color: black;
+}
