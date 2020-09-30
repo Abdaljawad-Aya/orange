@@ -1,0 +1,25 @@
+b {
+  text-decoration: underline;
+  font-family: cursive;
+}
+
+a {
+  color: red;
+}
+
+p#link {
+  text-decoration: black;
+}
+
+li.circle {
+  list-style-type: circle;
+}
+
+li.sqaure {
+  list-style-type: none;
+}
+
+li.sqaure,
+a {
+  font-weight: bold;
+}
