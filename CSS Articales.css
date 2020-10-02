@@ -1,0 +1,46 @@
+#body {
+
+  background-color: rgb(255, 252, 206);
+}
+
+#box1 {
+
+  border-style: solid;
+  color: black;
+  padding: 20px;
+  margin-bottom: 10px;
+  background: white;
+  height: 50%;
+  border-width: 1px;
+
+
+
+}
+
+#box2 {
+
+  border-style: solid;
+  color: black;
+  padding: 20px;
+  margin-bottom: 10px;
+  background: white;
+  border-width: 1px;
+}
+
+#coloredbox {
+  border-style: dotted;
+  border-color: red;
+  padding: 20px;
+  background: white;
+
+}
+
+#id {
+  color: red;
+}
+
+.boxInsidebox {
+  border-style: dotted;
+  border-color: red;
+  padding: 10px;
+}
