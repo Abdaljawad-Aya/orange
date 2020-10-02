@@ -1,0 +1,32 @@
+.one {
+  text-align: left;
+}
+
+#para {
+
+  border-width: 0px;
+  overflow: hidden;
+}
+
+div[id^="page"] {
+  margin: 0px;
+}
+
+.container-class {
+  background-repeat: no-repeat;
+  background-position: center;
+  width: px;
+  height: 200px;
+  overflow: hidden;
+  background-size: cover;
+  color: white;
+  border-left: 100px;
+  border: white;
+  padding-left: 5px;
+
+}
+
+
+.page-id2.container-class {
+  background-image: url("https://www.ostraining.com/cdn/images/mikehelp/help-peninsula.png");
+}
