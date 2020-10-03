@@ -1,0 +1,134 @@
+/* the Yellow Boxes*/
+
+#yellow1 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  position: relative;
+
+
+
+}
+
+.yellow2 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+  margin-top: -2%;
+
+}
+
+.yellow3 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+  margin-top: -2%;
+
+}
+
+.yellow4 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+  margin-top: -2%;
+
+}
+
+.yellow5 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+  margin-top: -2%;
+
+}
+
+/* the Green Boxes*/
+
+#green1 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  right: -6%;
+  position: relative;
+  margin-top: -3%;
+
+}
+
+.green2 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+
+}
+
+
+
+
+.green3 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+
+
+}
+
+.green4 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+
+}
+
+.green5 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right: -250%;
+
+
+}
