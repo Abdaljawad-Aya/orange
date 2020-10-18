@@ -17,7 +17,7 @@
    }
 
    tellFortune('software engineer', 'Jordan', 'Alice', 3)
-   tellFortune('bodybuilder', 'Canda', 'maram', 2)
+   tellFortune('bodybuilder', 'Canda', 'Madison', 2)
    tellFortune('programmer', 'USA', ' Abigail', 2)
   </script>
 </body> 
